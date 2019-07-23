@@ -1,18 +1,14 @@
-%******************************************************************************************************************%                                  %
-% If you find this work useful, please kindly cite our paper as,                                                   %
-%																												   %	   
-%	@article{zheng2019attributes,																				   %				
-%	  title={Attributes Guided Feature Learning for Vehicle Re-identification},                                    %
-%	  author={Zheng, Aihua and Lin, Xianmin and Li, Chenglong and He, Ran and Tang, Jin},                          %
-%	  journal={arXiv preprint arXiv:1905.08997},                                                                   %
-%	  year={2019}                                                                                                  %
-%	}                                                                                                              %
-%                                                                                                                  %
-% This code should be used for research only. Please DO NOT distribute or use it for commercial purpose.          %
-%                                      																	           %
-% If you have any problem, please contact xmlin1995@gmail.com   												   %						
-%******************************************************************************************************************%
-
+********************************************************************************************************
+If you find this work useful, please kindly cite our paper as,                                  
+	@article{zheng2019attributes,																				   			
+	  title={Attributes Guided Feature Learning for Vehicle Re-identification},                                    
+	  author={Zheng, Aihua and Lin, Xianmin and Li, Chenglong and He, Ran and Tang, Jin},                          
+	  journal={arXiv preprint arXiv:1905.08997},                                                                   
+	  year={2019}                                                                                                  
+	}  
+This code should be used for research only. Please DO NOT distribute or use it for commercial purpose.           
+If you have any problem, please contact xmlin1995@gmail.com   												   		
+********************************************************************************************************
 
 
 
